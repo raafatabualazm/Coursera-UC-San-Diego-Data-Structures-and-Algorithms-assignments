@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537467887 source:d:\coursera - data structures & algorithms\course 1\week 3\3-6 maximum salary\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<utility>
+

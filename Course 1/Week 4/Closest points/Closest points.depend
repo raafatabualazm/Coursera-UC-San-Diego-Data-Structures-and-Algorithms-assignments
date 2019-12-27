@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538086234 source:d:\coursera - data structures & algorithms\course 1\week 4\closest points\main.cpp
+	<iostream>
+	<utility>
+	<algorithm>
+	<cmath>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538084171 source:d:\coursera - data structures & algorithms\course 1\week 4\organizing a lottery\main.cpp
+	<iostream>
+	<utility>
+	<algorithm>
+	<vector>
+	<map>
+

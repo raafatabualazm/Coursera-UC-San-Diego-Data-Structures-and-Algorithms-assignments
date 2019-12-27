@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530961113 source:d:\coursera - data structures & algorithms\course 1\week 2\last digit of the sum of squares of fibonacci numbers\main.cpp
+	<iostream>
+	<vector>
+

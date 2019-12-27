@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537120293 source:d:\coursera - data structures & algorithms\course 1\week 3\3-2 maximum value of loot\main.cpp
+	<iostream>
+	<utility>
+	<algorithm>
+

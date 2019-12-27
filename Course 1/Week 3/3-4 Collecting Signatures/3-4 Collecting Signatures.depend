@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537029060 source:d:\coursera - data structures & algorithms\course 1\week 3\3-4 collecting signatures\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<algorithm>
+
